@@ -1,7 +1,9 @@
 Banana
-Apple
+Apple_modified
 Tomato
 Ananas
 Cucumbers
 Turnips
 Meat
+New Fruit
+Second New Fruit
