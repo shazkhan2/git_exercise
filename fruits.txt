@@ -2,3 +2,6 @@ Banana
 Apple
 Tomato
 Ananas
+Cucumbers
+Turnips
+Meat
