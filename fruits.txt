@@ -1,7 +1,10 @@
 Banana
+Apple_modified
 Apple Remote Modified
 Tomato
 Ananas
 Cucumbers
 Turnips
 Meat
+New Fruit
+Second New Fruit
